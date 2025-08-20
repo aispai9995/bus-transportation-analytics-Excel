@@ -89,3 +89,8 @@ These insights are surfaced through interactive filters, making it easy for non-
 ✔️ Targeted marketing and dynamic pricing are powerful business strategies that can significantly influence user behavior.<br>
 ✔️ When used creatively, Excel can be a powerful tool for building robust models and clear stories for data-driven decision-making.<br>
 ✔️ Design matters. Layout, contrast, and annotation accelerate comprehension.<br>
+
+## 🔗 Related Links
+📌 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7346556819433046017/)
+
+#### ✨ If you like this project, don’t forget to ⭐ star the repo!
